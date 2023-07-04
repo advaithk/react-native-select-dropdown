@@ -87,7 +87,7 @@ export default forwardRef((props, ref) => Input(props, ref));
 
 const styles = StyleSheet.create({
   searchViewStyle: {
-    height: 50,
+    height: 40,
     paddingHorizontal: 0,
   },
   defaultInputStyle: {
